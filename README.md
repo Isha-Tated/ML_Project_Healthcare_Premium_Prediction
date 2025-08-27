@@ -15,7 +15,7 @@ Approach
 
 Data Preprocessing: Handle missing values, encode categorical variables, scale numeric features.
 
-Models Used: Linear Regression, Random Forest Regressor, Gradient Boosting Regressor.
+Models Used: Linear Regression, XGBoost.
 
 Evaluation Metrics: Mean Absolute Error (MAE), Mean Squared Error (MSE), R² score.
 
